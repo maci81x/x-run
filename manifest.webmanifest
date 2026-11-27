@@ -1,0 +1,38 @@
+{
+  "id": "/x-run/",
+  "name": "X-Run",
+  "short_name": "X-Run",
+  "description": "L'app ufficiale della X-Run 2027 · Monteriggioni · Your pace. Our path.",
+  "lang": "it",
+  "dir": "ltr",
+  "start_url": "/x-run/",
+  "scope": "/x-run/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#262B24",
+  "background_color": "#262B24",
+  "categories": [
+    "sports",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "/x-run/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/x-run/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/x-run/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
